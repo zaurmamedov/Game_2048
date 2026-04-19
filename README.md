@@ -30,7 +30,7 @@ A browser-based implementation of the classic 2048 puzzle game. Combine tiles wi
 - Start and restart functionality
 - Responsive layout (mobile / tablet / desktop)
 
-## 🧠 Key Challenges
+## Key Challenges
 
 - **Game Logic Implementation**
   Handling tile movement, merging rules, and preventing double merges in one move.
