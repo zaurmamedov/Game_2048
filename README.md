@@ -21,12 +21,28 @@ A browser-based implementation of the classic 2048 puzzle game. Combine tiles wi
 
 ## Features
 
-- Classic 4x4 2048 gameplay
-- Keyboard controls with arrow keys
-- Random `2` and `4` tile generation after valid moves
-- Score tracking during the session
-- Win and lose game states
-- Start and restart controls
+- Classic **4x4 2048 gameplay**
+- Keyboard controls (Arrow keys)
+- Random tile generation (2 or 4) after each move
+- Real-time score tracking
+- Win condition (2048 tile reached)
+- Lose condition (no available moves)
+- Start and restart functionality
+- Responsive layout (mobile / tablet / desktop)
+
+## 🧠 Key Challenges
+
+- **Game Logic Implementation**
+  Handling tile movement, merging rules, and preventing double merges in one move.
+
+- **State Management**
+  Keeping track of the board, score, and game status (win/lose).
+
+- **Responsive Layout**
+  Ensuring the game scales correctly across different screen sizes.
+
+- **Smooth Interactions**
+  Making transitions and UI updates feel natural and responsive.
 
 ## Getting Started
 
